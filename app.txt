@@ -1,2 +1,1 @@
 "Leaning git commands!" 
-"Critical bug fixed" 
