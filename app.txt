@@ -1,2 +1,5 @@
 "Leaning git commands!" 
 "bug fixed"
+"Login feature added" 
+"Unfinished work on login UI" 
+"Finished login UI"
